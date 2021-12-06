@@ -1,4 +1,4 @@
-# League Backend Challenge
+# Backend Challenge
 
 ## Authors
 
@@ -87,4 +87,3 @@ curl -F 'file=@./matrix.csv' "localhost:5000/echo"
 ## Feedback
 
 If you have any feedback, please reach out at aforest@gmail.com
-# go_code_challenge
